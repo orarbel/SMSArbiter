@@ -3,7 +3,7 @@
 ### Why
 
   - SMS prices vary with different providers to different countries.
-  - There is no reason to use just one provider rather than the cheapest for each indivdiual text message.
+  - There is no reason to use just one provider rather than the cheapest for each individiual text message.
 
 ### What 
 
