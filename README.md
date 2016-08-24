@@ -7,7 +7,7 @@
 
 ### What 
 
-  - A web service that can send SMS by using the cheapest provider for the specific message destination.
+  - A web service that can send SMS by using the cheapest provider for a specific message destination.
 
 ### How
 
